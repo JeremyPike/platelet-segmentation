@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack">
+<config key="Variable_0">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="probabilityMapThreshold"/>
+<entry key="class" type="xstring" value="DOUBLE"/>
+<entry key="value" type="xdouble" value="-1.0"/>
+</config>
+<config key="Variable_1">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="minPlateletAreaMicrons"/>
+<entry key="class" type="xstring" value="DOUBLE"/>
+<entry key="value" type="xdouble" value="-1.0"/>
+</config>
+<config key="Variable_2">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="maxHoleSizeMicrons"/>
+<entry key="class" type="xstring" value="DOUBLE"/>
+<entry key="value" type="xdouble" value="-1.0"/>
+</config>
+<config key="Variable_3">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="outputFile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value=""/>
+</config>
+<config key="Variable_4">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="ilastikProjectPath"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value=""/>
+</config>
+<config key="Variable_5">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="inputPath"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value=""/>
+</config>
+<config key="Variable_6">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="inputFormat"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value=""/>
+</config>
+<config key="Variable_7">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="bandWidthProj"/>
+<entry key="class" type="xstring" value="INTEGER"/>
+<entry key="value" type="xint" value="-1"/>
+</config>
+<config key="Variable_8">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="objectClassPath"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value=""/>
+</config>
+<config key="Variable_9">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="allCells"/>
+<entry key="class" type="xstring" value="INTEGER"/>
+<entry key="value" type="xint" value="-1"/>
+</config>
+<config key="Variable_10">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="probabilityMapThreshold"/>
+<entry key="class" type="xstring" value="DOUBLE"/>
+<entry key="value" type="xdouble" value="0.5"/>
+</config>
+<config key="Variable_11">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="minPlateletAreaMicrons"/>
+<entry key="class" type="xstring" value="DOUBLE"/>
+<entry key="value" type="xdouble" value="4.0"/>
+</config>
+<config key="Variable_12">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="maxHoleSizeMicrons"/>
+<entry key="class" type="xstring" value="DOUBLE"/>
+<entry key="value" type="xdouble" value="10.0"/>
+</config>
+<config key="Variable_13">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="outputFile"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="V:\templateData\outputWithObjectClas.xlsx"/>
+</config>
+<config key="Variable_14">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="ilastikProjectPath"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="V:\templateData\pixelClassifier.ilp"/>
+</config>
+<config key="Variable_15">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="inputPath"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="V:\templateData\testImages"/>
+</config>
+<config key="Variable_16">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="inputFormat"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="czi"/>
+</config>
+<config key="Variable_17">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="bandWidthProj"/>
+<entry key="class" type="xstring" value="INTEGER"/>
+<entry key="value" type="xint" value="2"/>
+</config>
+<config key="Variable_18">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="objectClassPath"/>
+<entry key="class" type="xstring" value="STRING"/>
+<entry key="value" type="xstring" value="V:\templateData\objectClassifier.zip"/>
+</config>
+<config key="Variable_19">
+<entry key="type" type="xstring" value="variable"/>
+<entry key="name" type="xstring" value="allCells"/>
+<entry key="class" type="xstring" value="INTEGER"/>
+<entry key="value" type="xint" value="1"/>
+</config>
+</config>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="scriptImports" type="xstring" value="// Your custom imports:%%00010"/>
+<entry key="scriptFields" type="xstring" value="// Your custom variables:%%00010"/>
+<entry key="scriptBody" type="xstring" value="%%00010// path to ilastik project file %%00010//e.g C:\\Users\\jeremy\\Documents\\pixelClassifier.ilp%%00010out_ilastikProjectPath = &quot;V:\\templateData\\pixelClassifier.ilp&quot;;%%00010%%00010// path to object classifier%%00010//e.g C:\\Users\\jeremy\\Documents\\objectClassifier.zip%%00010out_objectClassPath = &quot;V:\\templateData\\objectClassifier.zip&quot;;%%00010%%00010// input data path%%00010// eg. C:\\Users\\jeremy\\Documents\\data&quot;%%00010out_inputPath =  &quot;V:\\templateData\\testImages&quot;;%%00010%%00010// input file format%%00010out_inputFormat = &quot;czi&quot;;%%00010%%00010// output excel file name and location%%00010// eg. C:\\Users\\jeremy\\Documents\\output.xlsx&quot;%%00010out_outputFile =  &quot;V:\\templateData\\outputWithObjectClas.xlsx&quot;;%%00010%%00010// click all cells (1) or only touching (0)%%00010out_allCells = 1;%%00010%%00010// set number of slices above and below focus plane to project %%00010// 0 chooses the single most in-focus slice, -1 will maximally project all slices%%00010out_bandWidthProj = 2;%%00010%%00010// set threshold for probability map (normally 0.5)%%00010out_probabilityMapThreshold = 0.5;%%00010%%00010// set minimum platelet area and maximum hole size in microns%%00010out_minPlateletAreaMicrons = 4.;%%00010out_maxHoleSizeMicrons = 10.;%%00010%%00010%%00010%%00010%%00010%%00010%%00010%%00010%%00010%%00010"/>
+<config key="jarFiles">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="outCols">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="outVars">
+<entry key="array-size" type="xint" value="10"/>
+<config key="0">
+<entry key="Name" type="xstring" value="probabilityMapThreshold"/>
+<entry key="JavaName" type="xstring" value="out_probabilityMapThreshold"/>
+<entry key="JavaType" type="xstring" value="java.lang.Double"/>
+<entry key="Type" type="xstring" value="DOUBLE"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="1">
+<entry key="Name" type="xstring" value="minPlateletAreaMicrons"/>
+<entry key="JavaName" type="xstring" value="out_minPlateletAreaMicrons"/>
+<entry key="JavaType" type="xstring" value="java.lang.Double"/>
+<entry key="Type" type="xstring" value="DOUBLE"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="2">
+<entry key="Name" type="xstring" value="maxHoleSizeMicrons"/>
+<entry key="JavaName" type="xstring" value="out_maxHoleSizeMicrons"/>
+<entry key="JavaType" type="xstring" value="java.lang.Double"/>
+<entry key="Type" type="xstring" value="DOUBLE"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="3">
+<entry key="Name" type="xstring" value="outputFile"/>
+<entry key="JavaName" type="xstring" value="out_outputFile"/>
+<entry key="JavaType" type="xstring" value="java.lang.String"/>
+<entry key="Type" type="xstring" value="STRING"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="4">
+<entry key="Name" type="xstring" value="ilastikProjectPath"/>
+<entry key="JavaName" type="xstring" value="out_ilastikProjectPath"/>
+<entry key="JavaType" type="xstring" value="java.lang.String"/>
+<entry key="Type" type="xstring" value="STRING"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="5">
+<entry key="Name" type="xstring" value="inputPath"/>
+<entry key="JavaName" type="xstring" value="out_inputPath"/>
+<entry key="JavaType" type="xstring" value="java.lang.String"/>
+<entry key="Type" type="xstring" value="STRING"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="6">
+<entry key="Name" type="xstring" value="inputFormat"/>
+<entry key="JavaName" type="xstring" value="out_inputFormat"/>
+<entry key="JavaType" type="xstring" value="java.lang.String"/>
+<entry key="Type" type="xstring" value="STRING"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="7">
+<entry key="Name" type="xstring" value="bandWidthProj"/>
+<entry key="JavaName" type="xstring" value="out_bandWidthProj"/>
+<entry key="JavaType" type="xstring" value="java.lang.Integer"/>
+<entry key="Type" type="xstring" value="INTEGER"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="8">
+<entry key="Name" type="xstring" value="objectClassPath"/>
+<entry key="JavaName" type="xstring" value="out_objectClassPath"/>
+<entry key="JavaType" type="xstring" value="java.lang.String"/>
+<entry key="Type" type="xstring" value="STRING"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+<config key="9">
+<entry key="Name" type="xstring" value="allCells"/>
+<entry key="JavaName" type="xstring" value="out_allCells"/>
+<entry key="JavaType" type="xstring" value="java.lang.Integer"/>
+<entry key="Type" type="xstring" value="INTEGER"/>
+<entry key="replaceExisting" type="xboolean" value="false"/>
+</config>
+</config>
+<config key="inCols">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<config key="inVars">
+<entry key="array-size" type="xint" value="1"/>
+<config key="0">
+<entry key="Name" type="xstring" value="knime.workspace"/>
+<entry key="JavaName" type="xstring" value="v_knimeworkspace"/>
+<entry key="JavaType" type="xstring" value="java.lang.String"/>
+<entry key="Type" type="xstring" value="STRING"/>
+</config>
+</config>
+<entry key="version" type="xstring" value="version 1.x"/>
+<entry key="templateUUID" type="xstring" isnull="true" value=""/>
+<entry key="runOnExecute" type="xboolean" value="false"/>
+<config key="bundles">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+</config>
+<config key="nodeAnnotation">
+<entry key="text" type="xstring" value="set user defined %%00013%%00010parameters%%00013%%00010"/>
+<entry key="bgcolor" type="xint" value="16777215"/>
+<entry key="x-coordinate" type="xint" value="142"/>
+<entry key="y-coordinate" type="xint" value="939"/>
+<entry key="width" type="xint" value="106"/>
+<entry key="height" type="xint" value="45"/>
+<entry key="alignment" type="xstring" value="CENTER"/>
+<entry key="borderSize" type="xint" value="0"/>
+<entry key="borderColor" type="xint" value="16777215"/>
+<entry key="defFontSize" type="xint" value="9"/>
+<entry key="annotation-version" type="xint" value="20151123"/>
+<config key="styles"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.jsnippet.JavaEditVarNodeFactory"/>
+<entry key="node-name" type="xstring" value="Java Edit Variable"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Java Snippet Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.jsnippets"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="4.0.0.v201906131505"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="4.0.1.v201908131444"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Java Edit Variable"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>
