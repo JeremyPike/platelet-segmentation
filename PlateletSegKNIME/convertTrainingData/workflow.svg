@@ -147,7 +147,7 @@
                 <path d="M128 493 L176 493 L176 504 L128 504 L128 493 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath45">
-                <path d="M-1 -1 L1286 -1 L1286 602 L-1 602 L-1 -1 Z"/>
+                <path d="M-1 -1 L1132 -1 L1132 602 L-1 602 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g fill="white" font-family="&apos;Segoe UI&apos;"
@@ -201,7 +201,7 @@
                   font-weight="normal" xml:space="preserve">(see https://www.knime.com/wiki/install-knime-image-processing for installation instructions)</text><text x="10"
                   y="267" clip-path="url(#clipPath12)"
                   font-family="&apos;Segoe UI&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve">Workflow updated on 30/01/2020</text>
+                  font-weight="normal" xml:space="preserve">Workflow updated on 05/03/2020</text>
         </g><g fill="rgb(255,216,0)" stroke-width="10"
            font-family="&apos;Segoe UI&apos;" stroke-linecap="butt"
            stroke="rgb(255,216,0)">
@@ -567,7 +567,7 @@ I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   font-weight="normal" xml:space="preserve">(see https://www.knime.com/wiki/install-knime-image-processing for installation instructions)</text><text x="10"
                   y="267" clip-path="url(#clipPath12)"
                   font-family="&apos;Segoe UI&apos;" stroke="none"
-                  font-weight="normal" xml:space="preserve">Workflow updated on 30/01/2020</text>
+                  font-weight="normal" xml:space="preserve">Workflow updated on 05/03/2020</text>
         </g><g stroke-linecap="butt" fill="rgb(255,216,0)"
            text-rendering="optimizeLegibility"
            font-family="&apos;Segoe UI&apos;" stroke="rgb(255,216,0)"
@@ -875,11 +875,11 @@ I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
             <circle r="4" clip-path="url(#clipPath44)" cx="140" cy="498"
                     stroke="none"/>
             <path fill="none"
-                  d="M904 498 C906 498 910 498 912 498 C951 498 1005 498 1044 498 C1046 498 1050 498 1052 498"
+                  d="M544 498 C546 498 550 498 552 498 C585 498 632 498 665 498 C667 498 671 498 673 498"
                   clip-path="url(#clipPath45)" fill-rule="evenodd"
                   stroke="rgb(150,150,150)"/>
             <path fill="none"
-                  d="M724 498 C726 498 730 498 732 498 C765 498 812 498 845 498 C847 498 851 498 853 498"
+                  d="M904 498 C906 498 910 498 912 498 C951 498 1005 498 1044 498 C1046 498 1050 498 1052 498"
                   clip-path="url(#clipPath45)" fill-rule="evenodd"
                   stroke="rgb(150,150,150)"/>
             <path fill="none"
@@ -887,7 +887,7 @@ I9NSe3Ml5QAAAABJRU5ErkJggg==" xlink:actuate="onLoad"/>
                   clip-path="url(#clipPath45)" fill-rule="evenodd"
                   stroke="rgb(150,150,150)"/>
             <path fill="none"
-                  d="M544 498 C546 498 550 498 552 498 C585 498 632 498 665 498 C667 498 671 498 673 498"
+                  d="M724 498 C726 498 730 498 732 498 C765 498 812 498 845 498 C847 498 851 498 853 498"
                   clip-path="url(#clipPath45)" fill-rule="evenodd"
                   stroke="rgb(150,150,150)"/>
             <path fill="none"

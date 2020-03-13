@@ -77,7 +77,7 @@
 </config>
 <config key="variables">
 <config key="min_area">
-<entry key="used_variable" type="xstring" value="minPlateletArea"/>
+<entry key="used_variable" type="xstring" value="minPlateletAreaPix"/>
 <entry key="exposed_variable" type="xstring" isnull="true" value=""/>
 </config>
 </config>

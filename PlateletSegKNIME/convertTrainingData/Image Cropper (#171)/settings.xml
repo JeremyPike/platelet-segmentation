@@ -35,14 +35,8 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <config key="cfg_subset_selection">
-<entry key="num_selected_dims" type="xint" value="3"/>
-<entry key="selected_dimlabel_0" type="xstring" value="X"/>
-<entry key="selection_X" type="xstring" value="769-1280"/>
-<entry key="includemode_X" type="xboolean" value="true"/>
-<entry key="selected_dimlabel_1" type="xstring" value="Y"/>
-<entry key="selection_Y" type="xstring" value="769-1280"/>
-<entry key="includemode_Y" type="xboolean" value="true"/>
-<entry key="selected_dimlabel_2" type="xstring" value="Channel"/>
+<entry key="num_selected_dims" type="xint" value="1"/>
+<entry key="selected_dimlabel_0" type="xstring" value="Channel"/>
 <entry key="selection_Channel" type="xstring" value="0"/>
 <entry key="includemode_Channel" type="xboolean" value="true"/>
 </config>

@@ -72,7 +72,7 @@
 </config>
 <config key="variables">
 <config key="min_area">
-<entry key="used_variable" type="xstring" value="maxHoleSize"/>
+<entry key="used_variable" type="xstring" value="minHoleAreaPix"/>
 <entry key="exposed_variable" type="xstring" isnull="true" value=""/>
 </config>
 </config>
