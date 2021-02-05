@@ -43,7 +43,7 @@
 <config key="styles"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
-<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.knip.ilastik.nodes.headless.IlastikHeadlessNodeFactory"/>
 <entry key="node-name" type="xstring" value="Ilastik Headless (Pixel classification)"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Ilastik Integration Plugin"/>

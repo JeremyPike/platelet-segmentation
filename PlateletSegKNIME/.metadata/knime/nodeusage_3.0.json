@@ -1,0 +1,351 @@
+
+{
+    "version": "4.3.1.v202101261633",
+    "created": "2021-02-05 14:08",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.base.node.jsnippet.JavaEditVarNodeFactory#Java Edit Variable",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 10,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.io.listfiles2.ListFilesNodeFactory#List Files (deprecated)",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 146,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.jsnippet.JavaSnippetNodeFactory#Java Snippet",
+                "nrexecs": 15,
+                "nrfails": 0,
+                "exectime": 28259,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.sorter.SorterNodeFactory#Sorter",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 33,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.rowkey2.RowKeyNodeFactory2#RowID",
+                "nrexecs": 6,
+                "nrfails": 0,
+                "exectime": 25,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.io.nodes.imgreader2.readfrominput.ImgReaderTableNodeFactory#Image Reader (Table)",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 13788,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.ext.sun.nodes.script.node.ifswitch.JavaIfSwitchNodeFactory#Java IF (Table)",
+                "nrexecs": 5,
+                "nrfails": 0,
+                "exectime": 3,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.proc.ProjectorNodeFactory#Projector",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 2,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.switches.endif.EndifNodeFactory#End IF",
+                "nrexecs": 5,
+                "nrfails": 0,
+                "exectime": 45,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.columnresorter.ColumnResorterNodeFactory#Column Resorter",
+                "nrexecs": 7,
+                "nrfails": 0,
+                "exectime": 4,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.proc.ImgCropperNodeFactory2#Image Cropper",
+                "nrexecs": 6,
+                "nrfails": 0,
+                "exectime": 966,
+                "nrcreated": 0,
+                "successor": "org.knime.knip.io.nodes.annotation.create.OverlayAnnotatorNodeFactory#Interactive Annotator"
+            },
+            {
+                "id": "org.knime.base.node.meta.looper.chunk.LoopStartChunkNodeFactory#Chunk Loop Start",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 11,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.io.nodes.annotation.create.OverlayAnnotatorNodeFactory#Interactive Annotator",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 462,
+                "nrcreated": 0,
+                "successor": "NodeContainer"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.seg.LabelingFilterNodeFactory#Labeling Filter",
+                "nrexecs": 12,
+                "nrfails": 0,
+                "exectime": 6625,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.ilastik.nodes.headless.IlastikHeadlessNodeFactory#Ilastik Headless (Pixel classification)",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 194815,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.meta.looper.LoopEndNodeFactory#Loop End",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 1775,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.rename.RenameNodeFactory#Column Rename",
+                "nrexecs": 14,
+                "nrfails": 0,
+                "exectime": 4,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.proc.ThresholderNodeFactory3#Global Thresholder",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 1145,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.proc.InverterNodeFactory2#Inverter",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 16,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.joiner.Joiner2NodeFactory#Joiner",
+                "nrexecs": 7,
+                "nrfails": 0,
+                "exectime": 165,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.proc.binary.morphops.MorphImgOpsNodeFactory#Morphological Image Operations",
+                "nrexecs": 6,
+                "nrfails": 0,
+                "exectime": 11643,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.seg.ConnectedCompAnalysisNodeFactory#Connected Component Analysis",
+                "nrexecs": 5,
+                "nrfails": 0,
+                "exectime": 14295,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.seg.LabelingToImgNodeFactory#Labeling to Image",
+                "nrexecs": 5,
+                "nrfails": 0,
+                "exectime": 2674,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.seg.WatershedNodeFactory#Seeded Watershed",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 692,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter",
+                "nrexecs": 11,
+                "nrfails": 0,
+                "exectime": 37,
+                "nrcreated": 0,
+                "successor": "org.knime.base.node.preproc.joiner.Joiner2NodeFactory#Joiner"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.seg.ImgToLabelingNodeFactory#Image to Labeling",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 545,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.append.row.AppendedRowsNodeFactory#Concatenate",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 1,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.proc.binary.BinaryArithmeticNodeFactory#Binary Image Operations",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 462,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.seg.LabelingArithmeticNodeFactory#Labeling Arithmetic",
+                "nrexecs": 5,
+                "nrfails": 0,
+                "exectime": 10817,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 0,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.view.segmentoverlay.SegmentOverlayNodeFactory#Interactive Segmentation View",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 22,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.features.ImgLabFeatureSetNodeFactory#Image Segment Features",
+                "nrexecs": 3,
+                "nrfails": 0,
+                "exectime": 6675,
+                "nrcreated": 0,
+                "successor": "org.knime.base.node.preproc.filter.row.RowFilterNodeFactory#Row Filter"
+            },
+            {
+                "id": "org.knime.knip.base.nodes.view.TableCellViewNodeFactory#Image Viewer",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 0,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.ext.poi2.node.write2.XLSAppenderNodeFactory#Excel Sheet Appender (XLS) (deprecated)",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 611,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.partition.PartitionNodeFactory#Partitioning",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 13,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.mine.treeensemble2.node.randomforest.learner.classification.RandomForestClassificationLearnerNodeFactory2#Random Forest Learner",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 103,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.mine.treeensemble2.node.randomforest.predictor.classification.RandomForestClassificationPredictorNodeFactory2#Random Forest Predictor",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 13,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.mine.scorer.accuracy.AccuracyScorerNodeFactory#Scorer (deprecated)",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 4,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.ext.jfc.node.heatmap.JfcHeatMapNodeFactory#HeatMap (JFreeChart)",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 178,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.groupby.GroupByNodeFactory#GroupBy",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 49,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.pivot.Pivot2NodeFactory#Pivoting",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 6,
+                "nrcreated": 0,
+                "successor": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        }
+    },
+    "uptime": 347837,
+    "workflowsOpened": 6,
+    "remoteWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "launches": 4,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 536732,
+    "crashes": 0,
+    "properlyShutDown": true
+}

@@ -77,11 +77,11 @@
 <entry key="node-bundle-name" type="xstring" value="KNIME Image Types and Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.knip.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="University of Konstanz"/>
-<entry key="node-bundle-version" type="xstring" value="1.8.0.201907250605"/>
+<entry key="node-bundle-version" type="xstring" value="1.8.3.202012050717"/>
 <entry key="node-feature-name" type="xstring" value="KNIME Image Processing"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.knip.feature.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="University of Konstanz / KNIME"/>
-<entry key="node-feature-version" type="xstring" value="1.8.0.201907250605"/>
+<entry key="node-feature-version" type="xstring" value="1.8.3.202012050717"/>
 <config key="factory_settings"/>
 <entry key="name" type="xstring" value="Seeded Watershed"/>
 <entry key="hasContent" type="xboolean" value="false"/>

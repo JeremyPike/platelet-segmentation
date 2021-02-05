@@ -36,13 +36,13 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Accuracy"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="0.5"/>
+<entry key="value" type="xdouble" value="1.0"/>
 </config>
 <config key="Variable_6">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Error"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="0.5"/>
+<entry key="value" type="xdouble" value="0.0"/>
 </config>
 <config key="Variable_7">
 <entry key="type" type="xstring" value="variable"/>
@@ -54,13 +54,13 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="#False"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="1"/>
+<entry key="value" type="xint" value="0"/>
 </config>
 <config key="Variable_9">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="Cohen's kappa"/>
 <entry key="class" type="xstring" value="DOUBLE"/>
-<entry key="value" type="xdouble" value="0.0"/>
+<entry key="value" type="xdouble" value="NaN"/>
 </config>
 </config>
 <config key="internal_node_subsettings">
@@ -77,17 +77,17 @@
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
 <entry key="factory" type="xstring" value="org.knime.base.node.mine.scorer.accuracy.AccuracyScorerNodeFactory"/>
-<entry key="node-name" type="xstring" value="Scorer"/>
+<entry key="node-name" type="xstring" value="Scorer (deprecated)"/>
 <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
 <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
 <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-bundle-version" type="xstring" value="4.0.1.v201908131444"/>
-<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-bundle-version" type="xstring" value="4.3.1.v202101261649"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
 <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
 <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
-<entry key="node-feature-version" type="xstring" value="4.0.1.v201908131444"/>
+<entry key="node-feature-version" type="xstring" value="4.3.1.v202101261649"/>
 <config key="factory_settings"/>
-<entry key="name" type="xstring" value="Scorer"/>
+<entry key="name" type="xstring" value="Scorer (deprecated)"/>
 <entry key="hasContent" type="xboolean" value="false"/>
 <entry key="isInactive" type="xboolean" value="false"/>
 <config key="ports">

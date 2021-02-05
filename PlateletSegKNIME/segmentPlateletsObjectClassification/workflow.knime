@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="workflow.knime">
-<entry key="created_by" type="xstring" value="4.0.1.v201908131317"/>
+<entry key="created_by" type="xstring" value="4.3.1.v202101261633"/>
 <entry key="created_by_nightly" type="xboolean" value="false"/>
-<entry key="version" type="xstring" value="3.8.0"/>
+<entry key="version" type="xstring" value="4.1.0"/>
 <entry key="name" type="xstring" isnull="true" value=""/>
 <config key="authorInformation">
 <entry key="authored-by" type="xstring" value="pikeja"/>
 <entry key="authored-when" type="xstring" value="2017-10-05 09:22:49 +0100"/>
-<entry key="lastEdited-by" type="xstring" value="jeremy"/>
-<entry key="lastEdited-when" type="xstring" value="2020-03-09 10:37:29 +0000"/>
+<entry key="lastEdited-by" type="xstring" value="pikej"/>
+<entry key="lastEdited-when" type="xstring" value="2021-02-05 14:32:20 +0000"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
@@ -275,8 +275,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="359"/>
 <entry key="1" type="xint" value="897"/>
-<entry key="2" type="xint" value="55"/>
-<entry key="3" type="xint" value="78"/>
+<entry key="2" type="xint" value="80"/>
+<entry key="3" type="xint" value="93"/>
 </config>
 </config>
 </config>
@@ -371,7 +371,7 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="2379"/>
 <entry key="1" type="xint" value="897"/>
-<entry key="2" type="xint" value="97"/>
+<entry key="2" type="xint" value="137"/>
 <entry key="3" type="xint" value="93"/>
 </config>
 </config>
@@ -404,7 +404,7 @@
 <entry key="0" type="xint" value="1959"/>
 <entry key="1" type="xint" value="797"/>
 <entry key="2" type="xint" value="85"/>
-<entry key="3" type="xint" value="78"/>
+<entry key="3" type="xint" value="93"/>
 </config>
 </config>
 </config>
@@ -544,7 +544,7 @@
 </config>
 <config key="connection_4">
 <entry key="sourceID" type="xint" value="171"/>
-<entry key="destID" type="xint" value="233"/>
+<entry key="destID" type="xint" value="234"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -554,7 +554,7 @@
 </config>
 <config key="connection_5">
 <entry key="sourceID" type="xint" value="171"/>
-<entry key="destID" type="xint" value="234"/>
+<entry key="destID" type="xint" value="233"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
@@ -646,9 +646,9 @@
 </config>
 <config key="connection_15">
 <entry key="sourceID" type="xint" value="233"/>
-<entry key="destID" type="xint" value="178"/>
+<entry key="destID" type="xint" value="130"/>
 <entry key="sourcePort" type="xint" value="0"/>
-<entry key="destPort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="0"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
 <config key="ui_settings">
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
@@ -656,9 +656,9 @@
 </config>
 <config key="connection_16">
 <entry key="sourceID" type="xint" value="233"/>
-<entry key="destID" type="xint" value="130"/>
+<entry key="destID" type="xint" value="178"/>
 <entry key="sourcePort" type="xint" value="0"/>
-<entry key="destPort" type="xint" value="0"/>
+<entry key="destPort" type="xint" value="1"/>
 <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
 <config key="ui_settings">
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
